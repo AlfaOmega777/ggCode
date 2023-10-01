@@ -1,0 +1,12 @@
+.main {
+    display: grid;
+    place-content: center;
+}
+
+h2 {
+    margin: auto;
+}
+
+p {
+    text-align: justify;
+}
